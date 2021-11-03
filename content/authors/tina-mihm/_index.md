@@ -1,7 +1,7 @@
 ---
 title: Tina Mihm
 role: "PhD student in Electronic Structure "
-avatar_filename: head-shot.jpg
+avatar_filename: avatar.jpg
 social:
   - display:
       header: true
