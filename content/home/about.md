@@ -22,5 +22,5 @@ author: tina-mihm
 # Change background color
 design:
   background:
-    color: '#262929'
+    color: '#242727'
 ---
