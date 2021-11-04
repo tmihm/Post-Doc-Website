@@ -20,6 +20,7 @@ title: Biography
 author: tina-mihm
 
 # Change background color
+design:
   background:
-    color: '#15a06a'
+    color: '#262929'
 ---
