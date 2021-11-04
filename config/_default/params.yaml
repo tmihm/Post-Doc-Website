@@ -29,8 +29,8 @@ address:
   country: United States
   country_code: US
 coordinates:
-  latitude: '41.66526253406863'
-  longitude: '-91.53651717745514'
+  latitude: '41.66401'
+  longitude: '-91.53631'
 map:
   provider: 'mapnik'
   api_key: ''
