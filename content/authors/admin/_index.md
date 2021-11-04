@@ -13,5 +13,8 @@ organizations:
     url: https://chem.uiowa.edu/
 email: tina-mihm@uiowa.edu
 superuser: true
+
+# Highlight the author in author lists? (true/false)
+highlight_name: true
 ---
 test
