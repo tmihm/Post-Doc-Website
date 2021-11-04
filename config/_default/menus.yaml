@@ -5,22 +5,19 @@
 
 main:
   - name: Home
-    url: 'about'
+    url: '#about'
     weight: 10
   - name: Featured Publications
-    url: 'featured'
+    url: '#featured'
     weight: 20
-  #- name: Projects
-  #  url: '#projects'
-  #  weight: 30
   - name: Publications
-    url: 'publications'
+    url: '#publications'
     weight: 30
   - name: Talks
-    url: 'talks'
+    url: '#talks'
     weight: 40
   - name: Contact
-    url: 'contact'
+    url: '#contact'
     weight: 50
 
 # Link to a PDF of your resume/CV from the menu.
