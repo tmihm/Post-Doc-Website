@@ -36,5 +36,5 @@ content:
 design:
   columns: '2'
   background:
-    color: '#505454'
+    color: '#3a3f3f'
 ---
