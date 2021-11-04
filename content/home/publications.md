@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 90
 
-title: Recent Publications
+title: Publications
 subtitle: ''
 
 content:
@@ -35,6 +35,8 @@ design:
   #   3 = Card
   #   4 = Citation (publication only)
   view: 4
+  background:
+    color: '#242727'
 ---
 
 {{% callout note %}}
