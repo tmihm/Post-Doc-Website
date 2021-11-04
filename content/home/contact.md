@@ -16,6 +16,14 @@ content:
   # Automatically link email and phone or display as text?
   autolink: true
   
+  map:
+    provider: 'mapnik'
+    api_key: ''
+    zoom: 15
+  coordinates:
+    latitude: '41.66401'
+    longitude: '-91.53631'
+  
   # Email form provider
   #form:
   # provider: netlify
