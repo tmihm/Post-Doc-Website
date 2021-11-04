@@ -3,23 +3,23 @@ title: Tina N. Mihm
 role: "PhD student in Theoretical Chemistry "
 avatar_filename: avatar.jpg
 social:
-- display:
-    header: true
+  - display:
+      header: true
     link: https://github.com/tmihm
     icon_pack: fab
     icon: github 
-- display:
-    header: true
+  - display:
+      header: true
     link: '/contact'
     icon_pack: fas
     icon: envelope
-- display:
-    header: true
+  - display:
+      header: true
     link: https://orcid.org/0000-0002-8075-216X
     icon_pack: fab
     icon: orcid
-- display:
-    header: true
+  - display:
+      header: true
     link: https://scholar.google.com/citations?hl=en&user=czVZNnwAAAAJ
     icon_pack: ai
     icon: google-scholar
