@@ -35,4 +35,6 @@ content:
   
 design:
   columns: '2'
+  background:
+    color: '#505454'
 ---
