@@ -28,13 +28,13 @@ address:
   postcode: '52242-1294'
   country: United States
   country_code: US
-map:
-  provider: 'google'
-  api_key: ''
-  zoom: 15
 coordinates:
   latitude: '41.66526253406863'
   longitude: '-91.53651717745514'
+map:
+  provider: 'mapnik'
+  api_key: ''
+  zoom: 15
   
 # Site header
 
