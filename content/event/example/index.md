@@ -19,7 +19,7 @@ abstract: "In periodic solids, errors in the energies are typically thought to c
 # all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: "2017-01-01T00:00:00Z"
+#publishDate: "2017-01-01T00:00:00Z"
 
 authors: []
 tags: []
@@ -37,8 +37,8 @@ links:
   name: Follow
   url: https://twitter.com/georgecushen
 url_code: ""
-url_pdf: ""
-url_slides: static/uploads/POSTinaMIhm.pdf
+url_pdf: static/uploads/POSTinaMIhm.pdf
+url_slides: ""
 url_video: ""
 
 # Markdown Slides (optional).
@@ -46,7 +46,7 @@ url_video: ""
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: url_slides
+#slides: ""
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.
