@@ -19,7 +19,7 @@ abstract: "In periodic solids, errors in the energies are typically thought to c
 # all_day: true
 
 # Schedule page publish date (NOT talk date).
-publishDate: "2020-27-07"
+# publishDate: "2020-27-07"
 
 authors: []
 tags: []
