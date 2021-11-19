@@ -33,7 +33,7 @@ featured: false
 
 links:
 - icon: address-card
-  icon_pack: fab
+  icon_pack: fas
   name: Group Wedpage
   url: https://shepherdgroup.lab.uiowa.edu/vctc-2020-lightning-talks
 url_code: ""
