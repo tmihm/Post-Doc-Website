@@ -19,7 +19,7 @@ abstract: "In periodic solids, errors in the energies are typically thought to c
 # all_day: false
 
 # Schedule page publish date (NOT talk date).
-#publishDate: "2017-01-01T00:00:00Z"
+# publishDate: "2017-01-01T00:00:00Z"
 
 authors: Tina Mihm (University of Iowa), Bingdi Yang (University of Iowa), James Shepherd (University of Iowa)
 tags: []
@@ -32,10 +32,10 @@ image:
   focal_point: Right
 
 links:
-- icon: address-card
+- icon: code-branch
   icon_pack: fab
   name: Group Page
-  url: https://shepherdgroup.lab.uiowa.edu/vctc-2020-lightning-talks
+  #url: https://shepherdgroup.lab.uiowa.edu/vctc-2020-lightning-talks
 url_code: ""
 url_pdf: static/uploads/POSTinaMIhm.pdf
 url_slides: ""
