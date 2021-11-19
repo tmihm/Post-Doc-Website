@@ -14,28 +14,28 @@ abstract: "In periodic solids, errors in the energies are typically thought to c
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-# date: "2030-06-01T13:00:00Z"
-# date_end: "2030-06-01T15:00:00Z"
-# all_day: false
+date: "2030-06-01T13:00:00Z"
+date_end: "2030-06-01T15:00:00Z"
+all_day: false
 
 # Schedule page publish date (NOT talk date).
-# publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2017-01-01T00:00:00Z"
 
-authors: [Tina Mihm (University of Iowa), Bingdi Yang (University of Iowa), James Shepherd (University of Iowa)]
+authors: []
 tags: []
 
 # Is this a featured talk? (true/false)
 featured: false
 
-#image:
-#  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
-#  focal_point: Right
+image:
+  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
+  focal_point: Right
 
 links:
-- icon: address-card
-  icon_pack: fas
-  name: Group Wedpage
-  url: https://shepherdgroup.lab.uiowa.edu/vctc-2020-lightning-talks
+- icon: twitter
+  icon_pack: fab
+  name: Follow
+  url: https://twitter.com/georgecushen
 url_code: ""
 url_pdf: ""
 url_slides: ""
@@ -46,7 +46,7 @@ url_video: ""
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
- slides: example
+slides: example
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.
