@@ -1,19 +1,16 @@
 ---
-title: Example Talk
+title: What can the transition structure factor tell us about finite size effects in metals?
 
-event: Wowchemy Conference
-event_url: https://example.org
+event: Tina Mihm VCTC 2020 talk
+event_url: https://youtu.be/i-dVmwl-7fI
 
-location: Wowchemy HQ
+location: presented as a recorded lightning talk at the Virtual Conference on Theoretical Chemistry 2020
 address:
-  street: 450 Serra Mall
+  street: Stanford University
   city: Stanford
   region: CA
-  postcode: '94305'
-  country: United States
 
-summary: An example talk using Wowchemy's Markdown slides feature.
-abstract: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam."
+abstract: "In periodic solids, errors in the energies are typically thought to converge to the thermodynamic limit (TDL), or bulk, with an N^(-1) scaling, where N is the number of electrons in the system. However, in our analysis of the coupled cluster doubles correlation energy in the high density of the uniform electron gas, where coupled cluster is taken to be exact, we found the error scales as N^(-1/3). Through analysis of the part of the coupled cluster wavefunction known as the transition structure factor, whose convergence to the TDL mirrors that of the errors, we show where and how each convergence rate occurs and how they can be applied to solids in general."
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
