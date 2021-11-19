@@ -1,5 +1,6 @@
 ---
 title: What can the transition structure factor tell us about finite size effects in metals?
+<iframe width="560" height="315" src="https://www.youtube.com/embed/i-dVmwl-7fI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 event: Tina Mihm VCTC 2020 talk
 event_url: https://youtu.be/i-dVmwl-7fI
@@ -19,7 +20,7 @@ abstract: "In periodic solids, errors in the energies are typically thought to c
 # all_day: false
 
 # Schedule page publish date (NOT talk date).
-# publishDate: "2017-01-01T00:00:00Z"
+# publishDate: ""
 
 authors: []
 tags: []
