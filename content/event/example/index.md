@@ -32,10 +32,10 @@ featured: false
 #  focal_point: Right
 
 links:
-- icon: address-card
-  icon_pack: fas
-  name: Group Wedpage
-  url: https://shepherdgroup.lab.uiowa.edu/vctc-2020-lightning-talks
+#- icon: address-card
+#  icon_pack: fas
+#  name: Group Wedpage
+#  url: https://shepherdgroup.lab.uiowa.edu/vctc-2020-lightning-talks
 url_code: ""
 url_pdf: ""
 url_slides: ""
