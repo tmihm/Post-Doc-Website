@@ -2,7 +2,7 @@
 title: What can the transition structure factor tell us about finite size effects in metals?
 
 event: Tina Mihm VCTC 2020 talk
-event_url: https://youtu.be/i-dVmwl-7fI
+#event_url: https://youtu.be/i-dVmwl-7fI
 
 location: presented as a recorded lightning talk at the Virtual Conference on Theoretical Chemistry 2020
 address:
