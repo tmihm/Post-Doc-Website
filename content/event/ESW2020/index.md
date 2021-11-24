@@ -39,7 +39,7 @@ links:
   name: Group Page
   url: https://shepherdgroup.lab.uiowa.edu/vctc-2020-lightning-talks
 url_code: ""
-url_pdf: static/uploads/ESW_Presentation_TM.pdf
+url_pdf: "uploads/ESW_Presentation_TM.pdf"
 url_slides: ""
 url_video: ""
 
