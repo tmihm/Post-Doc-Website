@@ -25,6 +25,3 @@ main:
   - name: CV
     url: uploads/Mihm-PosstDoc-CV-2021.pdf
     weight: 70
-design:
-  background:
-    color: '#3a3f3f'
