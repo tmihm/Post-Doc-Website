@@ -4,6 +4,7 @@ title: What can the transition structure factor tell us about finite size effect
 event: Tina Mihm VCTC 2020 talk
 event_url: https://youtu.be/i-dVmwl-7fI
 
+
 location: presented as a recorded lightning talk at the Virtual Conference on Theoretical Chemistry 2020
 address:
   street: Stanford University
@@ -21,7 +22,10 @@ all_day: true
 # Schedule page publish date (NOT talk date).
 # publishDate: "2020-27-07"
 
-authors: []
+authors: 
+- admin
+- Bingdi Yang
+- James Shepherd
 tags: []
 
 # Is this a featured talk? (true/false)
