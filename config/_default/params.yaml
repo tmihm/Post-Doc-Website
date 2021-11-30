@@ -9,6 +9,9 @@ theme: forest
 day_night: true
 font: ''
 font_size: L
+design:
+  background:
+    color: '#242727'
 
 # SEO
 
