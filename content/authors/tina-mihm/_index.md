@@ -22,7 +22,7 @@ social:
 # and uncomment the lines below.
 # - icon: cv
 #   icon_pack: ai
-#   link: uploads/resume.pdf
+#   link: uploads/Mihm-PosstDoc-CV-2021.pdf
 
 organizations:
   - name: "University of Iowa "
@@ -48,4 +48,7 @@ education:
     year: 2017
 
 ---
+Tina Mihm is a chemistry graduate student in the Department of Chemistry at University of Iowa, IA.
+
+Tina currently studies electronic structure theory at University of Iowa (Iowa City, IA), working towards a PhD in Chemistry. She obtained her B.S. in Chemistry at Carthage College in 2017 before joining James J Shepherd’s group at the University of Iowa where she works on exploring finite size effects in solids. 
 
