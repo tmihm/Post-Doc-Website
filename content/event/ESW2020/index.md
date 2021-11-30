@@ -29,6 +29,11 @@ authors:
 - James Shepherd
 tags: []
 
+# Change background color
+design:
+  background:
+    color: '#242727'
+
 # Is this a featured talk? (true/false)
 featured: true
 
@@ -60,10 +65,5 @@ url_video: ""
 #   Otherwise, set `projects = []`.
 projects: [] 
 #- example
-
-# Change background color
-design:
-  background:
-    color: '#242727'
 
 ---
