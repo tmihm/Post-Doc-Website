@@ -23,7 +23,10 @@ all_day: true
 # Schedule page publish date (NOT talk date).
 # publishDate: "2020-27-07"
 
-authors: []
+authors: 
+- admin
+- Bingdi Yang
+- James Shepherd
 tags: []
 
 # Is this a featured talk? (true/false)
