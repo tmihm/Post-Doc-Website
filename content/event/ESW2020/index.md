@@ -32,7 +32,7 @@ tags: []
 # Change background color
 design:
   background:
-    color: '#242727'
+    color: '#3a3f3f'
 
 # Is this a featured talk? (true/false)
 featured: true
