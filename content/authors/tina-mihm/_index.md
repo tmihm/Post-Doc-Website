@@ -15,14 +15,16 @@ social:
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?hl=en&user=czVZNnwAAAAJ
-
+- icon: user-graduate
+  icon_pack: fas
+  link: "uploads/Mihm-PosstDoc-CV-2021.pdf"
 
 # Link to a PDF of your resume/CV from the About widget.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
 # and uncomment the lines below.
- - icon: cv
-   icon_pack: ai
-   link: "uploads/Mihm-PosstDoc-CV-2021.pdf"
+# - icon: cv
+#   icon_pack: ai
+#   link: "uploads/Mihm-PosstDoc-CV-2021.pdf"
 
 organizations:
   - name: "University of Iowa "
