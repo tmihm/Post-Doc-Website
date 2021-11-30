@@ -59,4 +59,10 @@ url_video: ""
 #   Otherwise, set `projects = []`.
 projects: [] 
 #- example
+
+# Change background color
+design:
+  background:
+    color: '#242727'
+
 ---
