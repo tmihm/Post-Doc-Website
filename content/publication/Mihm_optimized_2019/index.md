@@ -28,7 +28,7 @@ publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
 publication: *The Journal of Chemical Physics*
-#publication_short: In *JCP*
+publication_short: 
 
 abstract: We explore an alternative to twist averaging in order to obtain more cost-effective and accurate extrapolations to the thermodynamic limit (TDL) for coupled cluster doubles (CCD) calculations. We seek a single twist angle to perform calculations at, instead of integrating over many random points or a grid. We introduce the concept of connectivity, a quantity derived from the nonzero four-index integrals in an MP2 calculation. This allows us to find a special twist angle that provides appropriate connectivity in the energy equation, which yields results comparable to full twist averaging. This special twist angle effectively makes the finite electron number CCD calculation represent the TDL more accurately, reducing the cost of twist-averaged CCD over Ns twist angles from Ns CCD calculations to Ns MP2 calculations plus one CCD calculation.
  
