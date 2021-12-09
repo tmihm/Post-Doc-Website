@@ -21,26 +21,19 @@ date: "2021-12-22T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2022-01-30T00:00:00Z"
+#publishDate: "2022-01-30T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["2"]
+publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Nature Computational Science*"
+publication: "submitted"
 #publication_short: ""
 
-abstract: Computationally efficient and accurate quantum mechanical approximations to solve the many-electron Schrödinger equation
-are crucial for computational materials science. Methods such as coupled cluster theory show potential for widespread adoption
-if computational cost bottlenecks can be removed. For example, extremely dense k-point grids are required to model longrange
-electronic correlation effects, particularly for metals. Although these grids can be made more effective by averaging
-calculations over an offset (or twist angle), the resultant cost in time for coupled cluster theory is prohibitive. We show here
-that a single special twist angle can be found using the transition structure factor, which provides the same benefit as twist
-averaging with one or two orders of magnitude reduction in computational time. We demonstrate that this not only works for
-metal systems, but also is applicable to a broader range of materials, including insulators and semiconductors.
+abstract: Computationally efficient and accurate quantum mechanical approximations to solve the many-electron Schrödinger equation are crucial for computational materials science. Methods such as coupled cluster theory show potential for widespread adoption if computational cost bottlenecks can be removed. For example, extremely dense k-point grids are required to model longrange electronic correlation effects, particularly for metals. Although these grids can be made more effective by averaging calculations over an offset (or twist angle), the resultant cost in time for coupled cluster theory is prohibitive. We show here that a single special twist angle can be found using the transition structure factor, which provides the same benefit as twist averaging with one or two orders of magnitude reduction in computational time. We demonstrate that this not only works for metal systems, but also is applicable to a broader range of materials, including insulators and semiconductors.
 
 # Summary. An optional shortened abstract.
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
