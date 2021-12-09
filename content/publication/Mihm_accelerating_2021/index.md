@@ -27,8 +27,8 @@ doi: "https://doi.org/10.1063/5.0033408"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: *The Journal of Chemical Physics*
-#publication_short: In *JCP*
+publication: "*The Journal of Chemical Physics*"
+#publication_short: ""
 
 abstract: We recently developed a scheme to use low-cost calculations to find a single twist angle where the coupled cluster doubles energy of a single calculation matches the twist-averaged coupled cluster doubles energy in a finite unit cell. We used initiator full configuration interaction quantum Monte Carlo as an example of an exact method beyond coupled cluster doubles theory to show that this selected twist angle approach had comparable accuracy in methods beyond coupled cluster. Furthermore, at least for small system sizes, we show that the same twist angle can also be found by comparing the energy directly (at the level of second-order Moller–Plesset theory), suggesting a route toward twist angle selection, which requires minimal modification to existing codes that can perform twist averaging.
 
