@@ -24,7 +24,7 @@ social:
 # and uncomment the lines below.
 # - icon: cv
 #   icon_pack: ai
-#   link: "uploads/Mihm-PosstDoc-CV-2021.pdf"
+#   link: "uploads//Mihm-PosstDoc-CV-2021-NoRef.pdf"
 
 organizations:
   - name: "University of Iowa "
